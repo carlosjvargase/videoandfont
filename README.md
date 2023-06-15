@@ -4,7 +4,7 @@
 
 
 ES.
-Video que se combina con la fuente de letra usada, el video esta en reproducción automática, en mute con un bucle y se puede observar atreves de la frase escrita.  
+Video que se combina con la fuente de letra usada, el video esta en reproducción automática, en mute con un bucle y se puede observar atreves de la frase escrita. Usando HTML y CSS.  
 
 EN.
-Video that is combined with the font used, the video is in autoplay, in mute with a loop and can be seen through the written phrase.  
+Video that is combined with the font used, the video is in autoplay, in mute with a loop and can be seen through the written phrase. Using only HTML and CSS.
